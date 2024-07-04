@@ -22,7 +22,7 @@
 
 ### 3. **🔧 Servicios y Programas de Inicio**
 
-- **Ver Servicios y Programas de Inicio:** MSCONFIG permite ver y deshabilitar servicios y programas que se ejecutan al iniciar Windows. Sin embargo, esta función está destinada a la depuración y resolución de problemas.
+- **Ver Servicios y Programas de Inicio:** MSCONFIG permite ver y deshabilitar servicios y programas que se ejecutan al iniciar Windows. Esta función está destinada a la depuración y resolución de problemas.
 
 > [!TIP]
 > 💡 Aunque puedes desactivar programas de inicio desde MSCONFIG, es recomendable hacerlo desde las herramientas dedicadas del sistema, como el Administrador de Tareas o el panel de control de servicios, que ofrecen una vista más completa y detallada.
